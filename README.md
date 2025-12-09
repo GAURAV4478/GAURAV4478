@@ -67,11 +67,6 @@
 </p>
 
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV4478&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
 ## 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/gaurav thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav thakur" height="30" width="40" /></a>
